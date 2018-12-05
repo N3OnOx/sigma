@@ -1,0 +1,10 @@
+/home/asj23/Documents/sigma/bin/Debug/netcoreapp2.0/sigma.deps.json
+/home/asj23/Documents/sigma/bin/Debug/netcoreapp2.0/sigma.runtimeconfig.json
+/home/asj23/Documents/sigma/bin/Debug/netcoreapp2.0/sigma.runtimeconfig.dev.json
+/home/asj23/Documents/sigma/bin/Debug/netcoreapp2.0/sigma.dll
+/home/asj23/Documents/sigma/bin/Debug/netcoreapp2.0/sigma.pdb
+/home/asj23/Documents/sigma/obj/Debug/netcoreapp2.0/sigma.csproj.CoreCompileInputs.cache
+/home/asj23/Documents/sigma/obj/Debug/netcoreapp2.0/sigma.AssemblyInfoInputs.cache
+/home/asj23/Documents/sigma/obj/Debug/netcoreapp2.0/sigma.AssemblyInfo.cs
+/home/asj23/Documents/sigma/obj/Debug/netcoreapp2.0/sigma.dll
+/home/asj23/Documents/sigma/obj/Debug/netcoreapp2.0/sigma.pdb
