@@ -1,7 +1,0 @@
-#!/bin/bash 
-
-echo "Preparando control de versiones y preparando el push" 
-git add .  
-read -p "Commit description: " desc  
-git commit -m "$desc"  
-git push origin master
